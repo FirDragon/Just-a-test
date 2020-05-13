@@ -1,0 +1,2 @@
+cd /d "E:\代码\WindowsDriver\测试\JustATest\JustATest" &msbuild "JustATest.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Win32" /p:SolutionDir="E:\代码\WindowsDriver\测试\JustATest" 
+exit %errorlevel% 
